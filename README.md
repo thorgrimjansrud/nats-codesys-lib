@@ -1,4 +1,18 @@
-# README.md
+---
+layout:
+  title:
+    visible: false
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
+# The NATS-CODESYS library
 
 ## NATS
 
